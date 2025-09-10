@@ -5,4 +5,4 @@ flutter pub get
 
 ภาพประกอบการทำงานของโปรแกรม  
 
-![Login](assets/images/Login.jpg)
+![Login](assets/images/login.jpg)
